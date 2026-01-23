@@ -1,1 +1,8 @@
 remote_theme: cotes2020/jekyll-theme-chirpy
+title: ccobra3000
+tagline: Stuff and things
+description: Technical writings by ccobra3000
+url: "https://ccobra3000.github.io/ccobra3000"
+github:
+  username: ccobra3000
+theme_mode: dark
